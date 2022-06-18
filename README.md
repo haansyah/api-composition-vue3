@@ -1,5 +1,10 @@
 # vue3
+
+## Vue Setup
+```
 npm i -g @vue/cli
+```
+
 ## Project setup
 ```
 npm install
